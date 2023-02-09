@@ -1,6 +1,6 @@
-# search
+# gsearch
 
-search algorithms
+search algorithms, implement by go
 
 ## Features
 
@@ -24,7 +24,7 @@ $ make test
 
 ## Documentation
 
-[search · pkg.go.dev](https://pkg.go.dev/github.com/cloudfstrife/search)
+[gsearch · pkg.go.dev](https://pkg.go.dev/github.com/cloudfstrife/gsearch)
 
 ## Contributing
 
